@@ -1308,7 +1308,7 @@ a:focus {
 /* __________________________________________________________________________________ */
 /* Card Styling */
 .contact-section {
-    position: relative;
+    position: relative; 
     width: 100%;
     margin: 45px 0;
     padding: 15px 0;
