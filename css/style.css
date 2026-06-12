@@ -1305,86 +1305,7 @@ a:focus {
 /*******************************/
 
 
-/* __________________________________________________________________________________ */
-/* Card Styling */
-.contact-section {
-    position: relative; 
-    width: 100%;
-    margin: 45px 0;
-    padding: 15px 0;
-    /* border: 5px solid red; */
-    background: url("../img/contact.png");
-}
-.contact-card {
-    background: #ffffff;
-    padding: 40px;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-    transition: transform 0.3s ease;
-}
-
-.contact-card:hover {
-    transform: translateY(-5px);
-}
-
-/* Floating Labels & Inputs */
-.form-group {
-    position: relative;
-    margin-bottom: 25px;
-}
-
-.form-control {
-    width: 100%;
-    padding: 15px;
-    border: 2px solid #e1e1e1;
-    border-radius: 8px;
-    background: transparent;
-    transition: all 0.3s ease;
-}
-
-.form-control:focus {
-    border-color: #007bff; /* Change to your brand color */
-    outline: none;
-    box-shadow: 0 0 8px rgba(0, 123, 255, 0.2);
-}
-
-.form-group label {
-    position: absolute;
-    left: 15px;
-    top: 15px;
-    color: #999;
-    pointer-events: none;
-    transition: 0.3s ease all;
-}
-
-.form-control:focus + label,
-.form-control:not(:placeholder-shown) + label {
-    top: -10px;
-    left: 10px;
-    background: white;
-    padding: 0 5px;
-    font-size: 12px;
-    color: #007bff;
-}
-
-/* Submit Button */
-.btn-submit {
-    width: 100%;
-    padding: 15px;
-    background: #007bff;
-    color: white;
-    border: none;
-    border-radius: 8px;
-    font-weight: bold;
-    cursor: pointer;
-    transition: background 0.3s ease, transform 0.2s;
-}
-
-.btn-submit:hover {
-    background: #0056b3;
-    transform: scale(1.02);
-}
-/* __________________________________________________________________________________ */
+/* Contact section */
 
 /* .contact-section { */
     /* position: relative; */
@@ -1470,6 +1391,8 @@ a:focus {
     }
 }
 
+
+/* Contact section */
 
 /*******************************/
 /*********** Blog CSS **********/
