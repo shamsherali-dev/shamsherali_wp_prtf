@@ -86,3 +86,20 @@
         </div>
 
         // <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27433.188463144008!2d73.33541799634004!3d30.742328323064044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3922a5e900bb8313%3A0x71c11b26c2b4eaba!2sOkara%20Cantonment%2C%20Pakistan!5e0!3m2!1sen!2s!4v1781198070999!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+        // contact
+
+        //   <div class="footer-contact-cta" style="margin: 20px 0;">
+        //             <p><strong>Let's connect!</strong></p>
+                    
+        //         </div>
+
+        //         <div class="footer-menu">
+        //            <p>
+        //             <a href="https://wa.me/923058840463" target="_blank" style="color: #25d366; text-decoration: none; font-weight: bold; margin-right: 15px;">
+        //                 <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        //             </a>
+        //            </p>
+        //             <p> <i class="fa fa-envelope"></i> shamsheralidev@gmail.com</p>
+        //         </div>
